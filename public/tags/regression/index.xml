@@ -7,7 +7,7 @@
     <description>regression</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>/img/waddington_landscape.jpg</url>
       <title>regression</title>
       <link>/tags/regression/</link>
     </image>
@@ -58,6 +58,9 @@ pie(
 Figure 1: A fancy pie chart.
 &lt;/p&gt;
 &lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;haha-just-kidding&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Haha Just Kidding&lt;/h1&gt;
 &lt;/div&gt;
 </description>
     </item>
