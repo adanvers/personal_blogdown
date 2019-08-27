@@ -47,4 +47,4 @@ user_groups:
 
 Alex Danvers is a social psychologist who uses dynamic systems and machine learning to understand social interactions and emotions. He uses multiple research methods, including mobile sensing (e.g., sampling ambient audio signals, accelerometry, light sensors), peripheral psychophysiology (e.g., heart rate, breathing, skin conductance), behavior coding of social interactions, natural language processing, and economic decision-making tasks.
 
-Danvers is an interdisciplinary scientist, having published research with cultural anthropologists, lawyers, clinical psychologists, and philosophers. He also has quantitative train in techniques such as multi-level modeling (hierarchical linear modeling), structural equation modeling (SEM), dynamic modeling, and machine learning.
+Danvers is an interdisciplinary scientist, having published research with cultural anthropologists, lawyers, clinical psychologists, and philosophers. He also has quantitative training in techniques such as multi-level modeling (hierarchical linear modeling), structural equation modeling (SEM), dynamic modeling, and machine learning.

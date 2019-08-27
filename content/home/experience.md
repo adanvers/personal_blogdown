@@ -36,8 +36,6 @@ date_format = "Jan 2006"
   date_start = "2017-08-16"
   date_end = "2018-06-30"
   description = """
-  Year-long independent research fellowship.
-  
   Supervisor: Philosopher Nancy Snow, PhD
   """
 
