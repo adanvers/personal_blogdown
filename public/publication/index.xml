@@ -5,12 +5,36 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/waddington_landscape.jpg</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>The Amplifying Role of Need in Giving Decisions</title>
+      <link>/publication/need_relatedness/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/need_relatedness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emotional Congruence and Judgments of Honesty and Bias</title>
+      <link>/publication/honesty_bias/</link>
+      <pubDate>Wed, 05 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/honesty_bias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamically engaged smiling predicts cooperation above and beyond average smiling levels</title>
+      <link>/publication/engaged_smiling/</link>
+      <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/engaged_smiling/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Going Off Script: Effects of Awe on Memory for Script-Typical and –Irrelevant Narrative Detail</title>
@@ -25,6 +49,14 @@
       <link>/publication/awe_eudaimonia/</link>
       <pubDate>Wed, 19 Oct 2016 00:00:00 +0000</pubDate>
       <guid>/publication/awe_eudaimonia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Closeness is Enough for Friends, but Not Mates or Kin: Mate and Kinship Premiums in India and U.S.</title>
+      <link>/publication/giving_premiums/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/giving_premiums/</guid>
       <description></description>
     </item>
     

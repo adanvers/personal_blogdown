@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/waddington_landscape.jpg</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;Alex Danvers is a social psychologist who uses dynamic systems and machine learning to understand social interactions and emotions. He uses multiple research methods, including mobile sensing (e.g., sampling ambient audio signals, accelerometry, light sensors), peripheral psychophysiology (e.g., heart rate, breathing, skin conductance), behavior coding of social interactions, natural language processing, and economic decision-making tasks.&lt;/p&gt;
 
@@ -24,18 +24,42 @@
     </item>
     
     <item>
-      <title>Michelle N. Shiota</title>
-      <link>/authors/michelle-n.-shiota/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/authors/michelle-n.-shiota/</guid>
+      <title>Daniel J. Hruschka</title>
+      <link>/authors/daniel-j.-hruschka/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/daniel-j.-hruschka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joseph V. Hackman</title>
+      <link>/authors/joseph-v.-hackman/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/joseph-v.-hackman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jing I. Hu</title>
+      <link>/authors/jing-i.-hu/</link>
+      <pubDate>Wed, 05 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/jing-i.-hu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Makenzie J. O&#39;Neil</title>
       <link>/authors/makenzie-j.-oneil/</link>
-      <pubDate>Wed, 19 Oct 2016 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 05 Dec 2018 00:00:00 +0000</pubDate>
       <guid>/authors/makenzie-j.-oneil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michelle N. Shiota</title>
+      <link>/authors/michelle-n.-shiota/</link>
+      <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/michelle-n.-shiota/</guid>
       <description></description>
     </item>
     

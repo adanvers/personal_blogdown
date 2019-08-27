@@ -5,12 +5,20 @@
     <link>/authors/admin/</link>
       <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/waddington_landscape.jpg</url>
       <title>Academic</title>
       <link>/authors/admin/</link>
     </image>
+    
+    <item>
+      <title>The Amplifying Role of Need in Giving Decisions</title>
+      <link>/publication/need_relatedness/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/need_relatedness/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
@@ -72,6 +80,22 @@ rm Untitled.md
 
 &lt;p&gt;For other tips, such as using math, see the guide on &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;writing content with Academic&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Emotional Congruence and Judgments of Honesty and Bias</title>
+      <link>/publication/honesty_bias/</link>
+      <pubDate>Wed, 05 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/honesty_bias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamically engaged smiling predicts cooperation above and beyond average smiling levels</title>
+      <link>/publication/engaged_smiling/</link>
+      <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/engaged_smiling/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -318,6 +342,14 @@ rm Untitled.md
 
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Closeness is Enough for Friends, but Not Mates or Kin: Mate and Kinship Premiums in India and U.S.</title>
+      <link>/publication/giving_premiums/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/giving_premiums/</guid>
+      <description></description>
     </item>
     
     <item>
