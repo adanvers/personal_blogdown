@@ -28,7 +28,7 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2017-10-27T00:00:00Z"
-slides: example
+slides: ""
 summary: People who smile in an engaged, responsive way during a getting-to-know-you conversation are cooperated
   with more in a subsequent economic decision-making game.
 tags:

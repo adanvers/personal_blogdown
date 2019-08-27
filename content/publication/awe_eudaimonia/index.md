@@ -27,7 +27,7 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2016-10-19T00:00:00Z"
-slides: example
+slides: ""
 summary: Experiencing awe, a positive emotion that leads people to update their internal knowledge structures
   based on new information, may help people create a conceptual framework for finding meaning in their lives.
 tags:

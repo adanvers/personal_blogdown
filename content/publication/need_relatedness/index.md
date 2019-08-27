@@ -30,7 +30,7 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2019-03-01T00:00:00Z"
-slides: example
+slides: ""
 summary: Among U.S. adults, need and relatedness have a synergistic effect on giving, a prediction that can be
   derived from a model of inclusive fitness.
 tags:

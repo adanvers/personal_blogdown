@@ -25,7 +25,7 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2017-01-01T00:00:00Z"
-slides: example
+slides: ""
 summary: Awe, unlike other positive emotions, decreases reliance on "scripts" in processing narratives.
 tags:
 - Source Themes

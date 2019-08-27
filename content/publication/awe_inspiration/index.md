@@ -29,7 +29,7 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2016-10-19T00:00:00Z"
-slides: example
+slides: ""
 summary: Awe, elevation, and inspiration are emotional states that draw people to consider that which is greater
   than the self. Theory, empirical evidence, and future directions for research are discussed. 
 tags:

@@ -31,7 +31,7 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2015-03-01T00:00:00Z"
-slides: example
+slides: ""
 summary: Closeness can explain the effects of friendship on giving, but not relatedness or romantic partners.
 tags:
 - Source Themes

@@ -25,7 +25,7 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2018-12-05T00:00:00Z"
-slides: example
+slides: ""
 summary: If a person has a negative emotional reaction to an outgroup member, his commitments to non-racist,
   non-homophobic, and non-sexist values are viewed as less honest.
 tags:
