@@ -1,14 +1,14 @@
 +++
 # Hero widget.
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
+headless = false  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Get Updates!"
+title = "Stay Up to Date!"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-# hero_media = "avatar.jpeg"
+hero_media = "avatar.jpeg"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -45,6 +45,6 @@ title = "Get Updates!"
 
 +++
 
-**Sign up for updates from my __How Do You Know?__ blog!**
+Sign up for updates from my **How Do You Know?** blog!
 
 News on psychology research, scientific reform, and understanding patterns of change in people.
