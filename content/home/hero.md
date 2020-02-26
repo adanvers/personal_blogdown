@@ -35,7 +35,7 @@ title = "Keep up with me!"
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   url = "https://mailchi.mp/19ec081df049/hdyk-updates"
-  label = "Blog Updates"
+  label = "Get Blog Updates"
   icon_pack = "fas"
   icon = "fa-blog"
 
