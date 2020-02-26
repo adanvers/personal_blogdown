@@ -9,9 +9,7 @@ weight = 10  # Order that this section will appear.
 title = "Keep up with me!"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-# hero_media = "avatar.png"
-
-hero_media = "avatar.jpeg"
+hero_media = "waddington_landscape.jpeg"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -20,7 +18,7 @@ hero_media = "avatar.jpeg"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "hsla(16, 24%, 85%, 1)"
+  color = "rgb(20, 22, 34)"
 
   # Background gradient.
   #gradient_start = "#4bb4e3"
