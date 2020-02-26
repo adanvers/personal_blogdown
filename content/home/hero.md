@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "Stay Up to Date!"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "avatar.png"
+# hero_media = "avatar.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -47,4 +47,4 @@ hero_media = "avatar.png"
 
 Sign up for updates from my **How Do You Know?** blog!
 
-News on psychology research, scientific reform, and understanding patterns of change in people.
+News on scientific reform, new research methods, and understanding patterns of change in people.
