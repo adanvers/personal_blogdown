@@ -5,10 +5,10 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Blog Sign Up"
+title = "Get Updates!"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "avatar.jpeg"
+# hero_media = "avatar.jpeg"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -17,11 +17,11 @@ hero_media = "avatar.jpeg"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "purple"
+  color = "#795548"
 
   # Background gradient.
-  gradient_start = "#4bb4e3"
-  gradient_end = "#2b94c3"
+  #gradient_start = "#4bb4e3"
+  #gradient_end = "#2b94c3"
 
   # Background image.
   image = "waddington_landscape.jpeg"  # Name of image in `static/img/`.
