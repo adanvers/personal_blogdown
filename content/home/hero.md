@@ -17,7 +17,7 @@ title = "Keep up with me!"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "rgb(20, 22, 34)"
+  color = "#795548"
 
   # Background gradient.
   #gradient_start = "#4bb4e3"
@@ -45,6 +45,6 @@ title = "Keep up with me!"
 
 +++
 
-Sign up for updates from my **How Do You Know?** blog!
+Sign up for updates from my **_How Do You Know?_** blog.
 
 News on scientific reform, new research methods, and understanding patterns of change in people.
