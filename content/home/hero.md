@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Academic"
+title = "Blog Sign Up"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "avatar.jpeg"
@@ -17,15 +17,15 @@ hero_media = "avatar.jpeg"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "navy"
+  color = "purple"
 
   # Background gradient.
   gradient_start = "#4bb4e3"
   gradient_end = "#2b94c3"
 
   # Background image.
-  # image = "waddington_landscape.jpeg"  # Name of image in `static/img/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image = "waddington_landscape.jpeg"  # Name of image in `static/img/`.
+  image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
   text_color_light = true
@@ -47,6 +47,4 @@ hero_media = "avatar.jpeg"
 
 **Sign up for updates from my __How Do You Know?__ blog!**
 
-New from psychology's scientific frontiers!
-
-<span style="text-shadow: none;"><a class="github-button" href="https://github.com/gcushen/hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
+News on psychology research, scientific reform, and understanding patterns of change in people.
