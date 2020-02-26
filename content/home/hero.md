@@ -1,22 +1,17 @@
 +++
 # Hero widget.
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
-<<<<<<< HEAD
 headless = true  # This file represents a page section.
-=======
 headless = false  # This file represents a page section.
->>>>>>> fbbf7dcdd9fd026984310b43b372e2663372fa47
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
 title = "Keep up with me!"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-<<<<<<< HEAD
 # hero_media = "avatar.png"
-=======
+
 hero_media = "avatar.jpeg"
->>>>>>> fbbf7dcdd9fd026984310b43b372e2663372fa47
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -25,7 +20,7 @@ hero_media = "avatar.jpeg"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "#795548"
+  color = "hsla(16, 24%, 85%, 1)"
 
   # Background gradient.
   #gradient_start = "#4bb4e3"
@@ -55,8 +50,4 @@ hero_media = "avatar.jpeg"
 
 Sign up for updates from my **How Do You Know?** blog!
 
-<<<<<<< HEAD
 News on scientific reform, new research methods, and understanding patterns of change in people.
-=======
-News on psychology research, scientific reform, and understanding patterns of change in people.
->>>>>>> fbbf7dcdd9fd026984310b43b372e2663372fa47
